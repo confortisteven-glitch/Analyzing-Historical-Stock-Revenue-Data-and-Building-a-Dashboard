@@ -1,0 +1,2 @@
+# Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard
+In this project, I acted as a Data Scientist for a startup investment firm, collecting and analyzing financial data for Tesla, Amazon, AMD, and GameStop. Using Python, APIs, and web scraping, I gathered historical stock prices and quarterly revenue, then visualized trends in an interactive dashboard to support investment decisions.
